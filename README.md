@@ -1,2 +1,2 @@
 # WeatherAPI
-<a href="https://devrailan.github.io/WeatherAPI/"><h2>WeatherAPI</h2></a>
+<h2><a href="https://devrailan.github.io/WeatherAPI/">WeatherAPI</a></h2>
